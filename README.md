@@ -1,6 +1,8 @@
 ## Hi, I'm Jose 👋
 
-Bilingual Automation & Systems Integration Specialist based in Colombia. I design scalable workflow solutions that eliminate manual processes and improve operational efficiency — specializing in n8n, AI voice agents, CRM architecture, and REST API integrations for LATAM/US clients.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C47FF&width=600&lines=Automation+%26+Systems+Integration+Specialist;AI+Voice+Agents+%26+CRM+Architecture;n8n+%7C+GoHighLevel+%7C+Twilio+%7C+REST+APIs;Building+for+LATAM+%26+US+clients)](https://git.io/typing-svg)
+
+Bilingual Automation & Systems Integration Specialist based in Colombia. I design scalable workflow solutions that eliminate manual processes and improve operational efficiency, specializing in n8n, AI voice agents, CRM architecture, and REST API integrations for LATAM/US clients.
 
 ---
 
@@ -68,12 +70,12 @@ Bilingual Automation & Systems Integration Specialist based in Colombia. I desig
 
 ### 🎯 &nbsp;What I do
 
-- **300+ n8n workflows** deployed in production across marketing, sales, ops, and support
-- **15+ GoHighLevel implementations** — snapshots, pipelines, sequences, and API integrations
-- **AI voice agents & chatbots** — WhatsApp + Voice via Twilio and MCP frameworks
-- **CRM architecture** — Follow Up Boss, GoHighLevel, HubSpot, Airtable
-- **Full-stack platforms** — Next.js + Supabase + Mapbox for real estate tooling
-- **20+ hrs/week saved** per client through workflow and process automation
+- 300+ n8n workflows deployed in production across marketing, sales, ops, and support
+- 15+ GoHighLevel implementations including snapshots, pipelines, sequences, and API integrations
+- AI voice agents and chatbots via WhatsApp and Voice using Twilio and MCP frameworks
+- CRM architecture with Follow Up Boss, GoHighLevel, HubSpot, and Airtable
+- Full-stack platforms built with Next.js, Supabase, and Mapbox for real estate tooling
+- 20+ hours per week saved per client through workflow and process automation
 
 ---
 
