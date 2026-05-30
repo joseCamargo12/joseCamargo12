@@ -77,15 +77,8 @@ Bilingual Automation & Systems Integration Specialist based in Colombia. I desig
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=joseCamargo12&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseCamargo12&theme=algolia&hide_border=true&mode=weekly)](https://git.io/streak-stats)&nbsp;&nbsp;![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=joseCamargo12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseCamargo12&layout=compact&langs_count=8&theme=algolia&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseCamargo12&theme=algolia&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=joseCamargo12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
 
 ---
 
