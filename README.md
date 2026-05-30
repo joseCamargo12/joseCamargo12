@@ -77,12 +77,6 @@ Bilingual Automation & Systems Integration Specialist based in Colombia. I desig
 
 ---
 
-### 🏆 &nbsp;Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=joseCamargo12&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%236c47ff.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://josecamargo12.github.io/portfolio)
